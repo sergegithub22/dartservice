@@ -1,15 +1,13 @@
-# Dart Service Manager. Web-site HTML template.
-
-### Template description:
-One page site HTML template. 
+# Dart Service Manager
+### Description:
+One page  web-site HTML template.
 Who is the author of the design(PSD) I do not know, but thanx him alot.
-
- ### Used:
+### Used:
  - HTML
  - CSS
  - JS plugins:
    - accordion
-   - two sliders
+   - 2 sliders
    - button up
  - Floats
 
