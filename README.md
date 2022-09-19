@@ -1,5 +1,4 @@
 # Dart Service Manager
-## Description:
 One page  web-site HTML template.\
 Layout bilded on floats.
 ### Used:
@@ -8,5 +7,5 @@ Layout bilded on floats.
  - JS
 ### Third party assets: (thanks to all who made it :pray:)
  - Design
- - JS plugins: all
+ - JS
  > All credits in their files.
