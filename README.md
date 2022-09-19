@@ -1,14 +1,12 @@
 # Dart Service Manager
-### Description:
-One page  web-site HTML template.
-Who is the author of the design(PSD) I do not know, but thanx him alot.
+## Description:
+One page  web-site HTML template.\
+Layout bilded on floats.
 ### Used:
  - HTML
  - CSS
- - JS plugins:
-   - accordion
-   - 2 sliders
-   - button up
- - Floats
-
+ - JS
+### Third party assets: (thanks to all who made it :pray:)
+ - Design
+ - JS plugins: all
  > All credits in their files.
