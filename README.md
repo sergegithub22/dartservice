@@ -1,6 +1,6 @@
 # Dart Service Manager
 One page  web-site HTML template.\
-Layout bilded on floats.
+Layout built on floats.
 ### Used:
  - HTML
  - CSS
